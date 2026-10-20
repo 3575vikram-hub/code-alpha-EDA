@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail Sales & Profitability Analysis (EDA)
 
 A comprehensive, hypothesis-driven Exploratory Data Analysis (EDA) and interactive business intelligence dashboard diagnosing pricing efficiency, seasonal trends, and profit margin leakages using statistical testing and multi-panel visualizations.
@@ -79,3 +80,6 @@ Features:
 1. **Discount Cap Policy**: Capping discounts at 20% eliminates the vast majority of negative-margin transactions.
 2. **Prioritize Technology Line**: Technology delivers the highest operating profit margin and stable unit economics.
 3. **Q4 Demand Preparation**: Strong cyclical spikes in November and December require proactive inventory allocation.
+=======
+# code-alpha-EDA
+>>>>>>> 631ea12023591962a37025932ffbdbe9146183e8
